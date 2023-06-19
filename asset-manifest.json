@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fa7b94cd.css",
-    "main.js": "./static/js/main.08a47cd7.js",
+    "main.css": "./static/css/main.7fec8bb0.css",
+    "main.js": "./static/js/main.014ab46d.js",
     "static/media/htmlcssProject2.png": "./static/media/htmlcssProject2.317e6517a466f045353a.png",
     "static/media/htmlcssProject1.png": "./static/media/htmlcssProject1.9058cc00bd9cc2d80ae3.png",
     "static/media/javascriptProject4.png": "./static/media/javascriptProject4.d43b388de618b93a3eb0.png",
@@ -9,6 +9,7 @@
     "static/media/fullstackProject1.png": "./static/media/fullstackProject1.6e24f946b6f024b3c4c9.png",
     "static/media/htmlcssProject4.png": "./static/media/htmlcssProject4.5da0ec5b79b23f88a9d4.png",
     "static/media/htmlcssProject3.png": "./static/media/htmlcssProject3.bbe8c2d45483a3742435.png",
+    "static/media/Spartan-VariableFont_wght.ttf": "./static/media/Spartan-VariableFont_wght.80059c2b3b1cc126c3e3.ttf",
     "static/media/reactProject1.png": "./static/media/reactProject1.d1918e8e27b631faa805.png",
     "static/media/javascriptProject1.png": "./static/media/javascriptProject1.db2d698021fe8d14508a.png",
     "static/media/javascriptProject3.png": "./static/media/javascriptProject3.b4211a23990990a70123.png",
@@ -18,11 +19,11 @@
     "static/media/expressIcon.png": "./static/media/expressIcon.e3d4f9e5c8b469e45838.png",
     "static/media/mongoIcon.png": "./static/media/mongoIcon.356aec7fe2cc0725a375.png",
     "index.html": "./index.html",
-    "main.fa7b94cd.css.map": "./static/css/main.fa7b94cd.css.map",
-    "main.08a47cd7.js.map": "./static/js/main.08a47cd7.js.map"
+    "main.7fec8bb0.css.map": "./static/css/main.7fec8bb0.css.map",
+    "main.014ab46d.js.map": "./static/js/main.014ab46d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa7b94cd.css",
-    "static/js/main.08a47cd7.js"
+    "static/css/main.7fec8bb0.css",
+    "static/js/main.014ab46d.js"
   ]
 }
